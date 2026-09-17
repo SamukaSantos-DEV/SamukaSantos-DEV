@@ -15,7 +15,7 @@ Construo aplicações web e mobile, integrações entre sistemas e soluções co
     <img src="https://img.shields.io/badge/LinkedIn-20232A?style=flat&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://github.com/SamukaSantosr360">
+  <a href="https://github.com/SamuelSantosr360">
     <img src="https://img.shields.io/badge/GitHub-20232A?style=flat&logo=github&logoColor=white" alt="GitHub Projeto" />
   </a>
   &nbsp;
